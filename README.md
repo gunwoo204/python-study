@@ -5,12 +5,12 @@
 ```
 1. Python & PEP8
 2. Hello World!
-3. Basic
-4. Operator & Equation
-5. Logic
-6. Function
-7. Module
-8. Data Structure
+3. Operator & Expressions
+4. Logic
+5. Function
+6. Module
+7. Data Structure
+8. Problem Solving
 ```
 
 이 스터디는 총 8강으로 이루어질 예정입니다. 각 강에 대한 자세한 내용은 연결 문서를 참고해주세요. 또한 이 스터디에서 사용할 교재는 아래와 같습니다.
